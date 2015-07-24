@@ -863,3 +863,4 @@ echo "MERN stack" >> 4.txt; git add 4.txt; git commit -m "finished" --date="Fri 
 echo "MERN stack" >> 4.txt; git add 4.txt; git commit -m "finished" --date="Fri Jul 19 2016 00:00:00 GMT-0700 (Pacific Daylight Time)" --author="Kimura Naoki<kimuranaoki@protonmail.com>";
 echo "MERN stack" >> 4.txt; git add 4.txt; git commit -m "finished" --date="Fri Jul 19 2016 00:00:00 GMT-0700 (Pacific Daylight Time)" --author="Kimura Naoki<kimuranaoki@protonmail.com>";MERN stack
 MERN stack
+MERN stack
